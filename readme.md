@@ -2,7 +2,7 @@
 
 ## Proje Tanıtımı 
 
-*Bu projede **.Net** kullanarak taş kağıt makay oyunu oluşturdun.*
+*Bu projede **.Net** kullanarak taş kağıt makas oyunu oluşturdum.*
 
 # Proje İçeriği #
 
@@ -16,23 +16,23 @@ Taş makası kırar, Makas kağıdı keser ve Kağıt da taşı sarar.
 
 Bu oyun, kullanıcılara taş, kağıt ve makas sembollerinden birini seçerek bilgisayara karşı oynamalarını sağlar. Oyunun genel akışı şu şekildedir:
 
-1.Kullanıcı seçimini yapar:
+1) Kullanıcı seçimini yapar:
 
 - "Taş"ı seçmek için Taş seçeneğini seçer.
 - "Kağıt"ı seçmek için Kağıt seçeneğini seçer.
 - "Makas"ı seçmek için Makas seçeneğini seçer.
 
-2)Bilgisayar rastgele bir seçim yapar (Taş, Kağıt veya Makas).
+2) Bilgisayar rastgele bir seçim yapar (Taş, Kağıt veya Makas).
 
-3)Kullanıcının seçimi ve bilgisayarın seçimi karşılaştırılır:
+3) Kullanıcının seçimi ve bilgisayarın seçimi karşılaştırılır:
 
 - Eğer kullanıcının seçimi ve bilgisayarın seçimi aynı ise, oyun berabere biter. Her iki tarafın da puanı bir artar.
 - Eğer biri diğerini yeniyorsa (örneğin, taş makası kırıyor), kazanan oyuncunun puanı bir artar.
 - Eğer biri diğerini yenmiyorsa (örneğin, taş kağıdı sarar), kazanan bilgisayarın puanı bir artar.
 
-4)Oyun sona erdiğinde kullanıcının ve bilgisayarın toplam puanı gösterilir. Kullanıcı, oyunu bitirmek istediğinde "Oyunu Bitir" butonuna tıklayarak oyunu sonlandırabilir.
+4) Oyun sona erdiğinde kullanıcının ve bilgisayarın toplam puanı gösterilir. Kullanıcı, oyunu bitirmek istediğinde "Oyunu Bitir" butonuna tıklayarak oyunu sonlandırabilir.
 
 Bu şekilde, kullanıcı oyun boyunca seçim yapar, sonuçları gözlemleyerek ve puanlarını izleyerek oyunun keyfini çıkarır.
 ![Oyun](https://github.com/emreilhangithub/TasKagitMakasOyunu/blob/master/images/Oyun.png)
 
-```.NET``` ```C#``` ```MSSQL```  ```WindowsForm``` ```Software``` ```Computer``` ```Programmer```
+```.NET``` ```C#``` ```Game```  ```WindowsForm``` ```Software``` ```Computer``` ```Programmer```
