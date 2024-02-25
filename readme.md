@@ -12,7 +12,7 @@ Oyuncular, birbirlerine karşı çeşitli semboller (taş, kağıt veya makas) s
 Her sembolün belirli bir sembole karşı avantajı veya dezavantajı vardır: 
 Taş makası kırar, Makas kağıdı keser ve Kağıt da taşı sarar.
 
-### Oyun İçerik
+### Oyun İçeriği ###
 
 Bu oyun, kullanıcılara taş, kağıt ve makas sembollerinden birini seçerek bilgisayara karşı oynamalarını sağlar. Oyunun genel akışı şu şekildedir:
 
